@@ -18,6 +18,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "2.3.11",
+    "@gravity-ui/icons": "^2.16.0",
     "@tailwindcss/postcss": "^4",
     "@types/node": "^25",
     "@types/react": "^19",
